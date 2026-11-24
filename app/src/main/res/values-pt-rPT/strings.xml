@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Practica2.2.1</string>
-    <string name="materia">Desenvolvimiento Móvil</string>
+    <string name="materia">Programação Móvel</string>
     <string name="nombre">Yuridia</string>
     <string name="apellido">Flores</string>
+    <string name="back_btn_desc">Voltar</string>
+    <string name="options_menu">Menu de opções</string>
+    <string name="profile">Perfil</string>
+    <string name="config">Configurações</string>
+    <string name="logout">Sair</string>
 </resources>

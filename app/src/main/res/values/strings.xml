@@ -3,4 +3,9 @@
     <string name="materia">Programación Móvil</string>
     <string name="nombre">Yuridia</string>
     <string name="apellido">Flores</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="options_menu">Menú de opciones</string>
+    <string name="profile">Perfil</string>
+    <string name="config">Configuración</string>
+    <string name="logout">Cerrar sesión</string>
 </resources>
